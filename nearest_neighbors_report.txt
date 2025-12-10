@@ -1,0 +1,114 @@
+
+=== POPULUS ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+romanus                   0.5604     | optimas                   0.6166    
+ciuis                     0.5572     | typus                     0.6000    
+popularis                 0.5369     | popularis                 0.5947    
+populatio                 0.5340     | israel                    0.5906    
+populariter               0.5179     | aaron                     0.5896    
+populo                    0.5159     | coetus                    0.5744    
+decemuir                  0.5056     | iudaicus                  0.5653    
+foederatus                0.4913     | leuiticus                 0.5574    
+senatus                   0.4864     | samaritanus               0.5544    
+duumuir                   0.4862     | colonus                   0.5481    
+respublica                0.4828     | atrium                    0.5442    
+optimates                 0.4801     | instituo                  0.5431    
+magistratus               0.4756     | dominus                   0.5404    
+populator                 0.4705     | tribus                    0.5390    
+coopto                    0.4600     | hircus                    0.5363    
+
+=== PLEBS ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+tribunus                  0.6396     | plebanus                  0.6260    
+tribunicius               0.5946     | plebeius                  0.5988    
+magistratus               0.5357     | ministratio               0.5672    
+centuriatus               0.5186     | regimen                   0.5565    
+rogatio                   0.5181     | praeficio                 0.5405    
+seditiose                 0.5142     | aristocratia              0.5270    
+etiamtum                  0.5036     | archidiaconus             0.5156    
+tribunatus                0.4987     | archidiaconatus           0.5140    
+gracchus                  0.4968     | archiepiscopus            0.5095    
+factio                    0.4906     | dioecesis                 0.5060    
+tributim                  0.4863     | administratio             0.5053    
+curiatus                  0.4847     | populus                   0.4987    
+contio                    0.4824     | ostiarius                 0.4936    
+optimates                 0.4820     | popularis                 0.4861    
+seditiosus                0.4789     | optimas                   0.4837    
+
+=== GENS ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+regens                    0.6138     | iudaicus                  0.5696    
+scythae                   0.5794     | gentilis                  0.5593    
+natio                     0.5635     | iudaeus                   0.5587    
+mardi                     0.5635     | natio                     0.5584    
+illyrii                   0.5384     | primitiuus                0.5581    
+iudaei                    0.5339     | gentilitas                0.5196    
+alienigena                0.5225     | disperdo                  0.5178    
+sarmatae                  0.5209     | princeps                  0.5175    
+brigantes                 0.5183     | alienigenus               0.5008    
+perdomo                   0.5178     | lex                       0.5007    
+rhoemetalces              0.5174     | primitiae                 0.4948    
+scythes                   0.5143     | iniquus                   0.4779    
+scythia                   0.5134     | optimas                   0.4765    
+hyrcani                   0.5113     | populus                   0.4741    
+xerxes                    0.4996     | primatus                  0.4704    
+
+=== NATIO ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+gens                      0.5635     | gens                      0.5584    
+dominatio                 0.5607     | gentilitas                0.5502    
+sarmatae                  0.5518     | primitiae                 0.5501    
+alienatio                 0.5340     | iudaeus                   0.5492    
+finitimi                  0.5195     | diuulgatio                0.5399    
+donatio                   0.5134     | gentilis                  0.5364    
+cognatio                  0.5023     | primitiuus                0.5349    
+nundinatio                0.4975     | mysterium                 0.5330    
+tetrarches                0.4924     | tergiuersatio             0.5179    
+expugnatio                0.4879     | iudaicus                  0.5148    
+belgae                    0.4750     | reputatio                 0.5083    
+uenatio                   0.4597     | explanatio                0.5004    
+mardi                     0.4579     | hereditas                 0.4976    
+transrhenani              0.4573     | dominatio                 0.4938    
+frisii                    0.4539     | edoeduco                  0.4840    
+
+=== UULGUS ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+uulgatus                  0.5317     | uulgaris                  0.5720    
+plerique                  0.4829     | indoctus                  0.5147    
+uulgo                     0.4747     | idiota                    0.4718    
+uulgaris                  0.4689     | reprehensibilis           0.4324    
+obtrecto                  0.4192     | cicero                    0.4288    
+contrecto                 0.4025     | ibidem                    0.4229    
+interritus                0.3938     | mirus                     0.4211    
+attrecto                  0.3899     | mordeo                    0.4171    
+imperitus                 0.3875     | studeo                    0.4161    
+aspecto                   0.3846     | cathedra                  0.4148    
+plebs                     0.3794     | derideo                   0.4109    
+discors                   0.3793     | hierotheus                0.4100    
+fauor                     0.3785     | ambio                     0.4081    
+affecto                   0.3783     | philosophia               0.4056    
+seditiosus                0.3781     | iocor                     0.4055    
+
+=== MULTITUDO ===
+Classical Neighbor        Sim        | Aquinas Neighbor          Sim       
+---------------------------------------------------------------------------
+correus                   0.6003     | paucitas                  0.5959    
+pompeiani                 0.5982     | collegium                 0.5622    
+conuulnero                0.5954     | multus                    0.5570    
+nostri                    0.5823     | ciuitas                   0.5381    
+altitudo                  0.5754     | numeratio                 0.5298    
+aduersarius               0.5692     | multiplicitas             0.5256    
+oppidani                  0.5580     | communitas                0.5146    
+legionarius               0.5437     | unitas                    0.5133    
+turmatim                  0.5431     | multiplicatio             0.5128    
+aduersaria                0.5287     | prouincia                 0.5121    
+circumuenio               0.5286     | multiplicabilis           0.5113    
+paucitas                  0.5202     | paterfamilias             0.5097    
+caesariani                0.5200     | seditio                   0.5047    
+alexandrini               0.5171     | populus                   0.5016    
+oppugnatio                0.5146     | collectio                 0.4910    
