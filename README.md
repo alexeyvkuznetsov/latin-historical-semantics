@@ -14,11 +14,10 @@
 @article{Kuznetsov2025Populus,
   author    = {Алексей Кузнецов},
   title     = {От Populus Romanus к Populus Christianus: понятие «народ» у Фомы Аквинского в свете дистрибутивной семантики},
-  journal   = {Название журнала (укажу после публикации)},
+  journal   = {Историческая информатика},
   year      = {2025},
-  volume    = {XX},
-  number    = {YY},
-  pages     = {ZZ-ZZ}
+  number    = {4},
+  pages     = {79-102}
 }
 ```
 
